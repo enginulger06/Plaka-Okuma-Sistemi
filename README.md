@@ -2,3 +2,6 @@
 Pyqt5 Arayüz
 Webcam IP bağlantı
 Sqlite
+
+
+anasayfa.py start
